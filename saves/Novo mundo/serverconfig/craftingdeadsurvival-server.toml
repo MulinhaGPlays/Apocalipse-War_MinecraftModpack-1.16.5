@@ -1,7 +1,0 @@
-
-[server]
-	disableZombies = false
-	brokenLegsEnabled = true
-	infectionEnabled = true
-	bleedingEnabled = true
-
